@@ -20,7 +20,8 @@ func generatePattern(n int) string {
 
 	var numbers []int
 	var temp string
-	var delim string = ","
+	// divider basically
+	var delim string = ""
 
 	numbers = createRange(1, n)
 
