@@ -30,14 +30,6 @@ For the numbers **4** and **10**:
 
 ---
 
-### Usage
-
-To run the function, execute the `main.go` file:
-
-```sh
-go run
-```
-
 # Challenge 2
 
 **Difficulty**: Easy
@@ -61,3 +53,9 @@ For the number `8`, the output will be:\
 123\
 12\
 1
+
+#### References:
+
+1. https://coddy.tech/courses/golang_challenges__level_1/sum_and_divide
+2. https://coddy.tech/courses/golang_challenges__level_1/generate_pattern
+3. https://tutorialedge.net/challenges/go/type-assertions/
