@@ -15,7 +15,6 @@ func GetDeveloper(name interface{}, age interface{}) Developer {
 }
 
 func main() {
-	fmt.Println("Hello World")
 
 	var name interface{} = "Elliot"
 	var age interface{} = 26

@@ -54,8 +54,37 @@ For the number `8`, the output will be:\
 12\
 1
 
+---
+
+# Challenge 3
+
+**Dificullty**: Easy
+
+In this challenge, we are going to define a function that is called GetDeveloper which will take in 2 interface{} arguments.
+
+Within this function, you will have to declare a new Developer instance and use type assertion to populate the values correctly before then returning this new Developer instance.
+
+---
+
+# Challenge 4
+
+**Difficulty**: Easy
+
+You are given an array (which will have a length of at least 3, but could be very large) containing integers. The array is either entirely comprised of odd integers or entirely comprised of even integers except for a single integer N. Write a method that takes the array as an argument and returns this "outlier" N.
+
+---
+
+### Example
+
+[2, 4, 0, 100, 4, 11, 2602, 36] --> 11 (the only odd number)
+
+[160, 3, 1719, 19, 11, 13, -21] --> 160 (the only even number)
+
+---
+
 #### References:
 
 1. https://coddy.tech/courses/golang_challenges__level_1/sum_and_divide
 2. https://coddy.tech/courses/golang_challenges__level_1/generate_pattern
 3. https://tutorialedge.net/challenges/go/type-assertions/
+4. https://www.codewars.com/kata/5526fc09a1bbd946250002dc/train/go
