@@ -110,6 +110,21 @@ Lew attacks Harry: Harry now has -1 health and is dead. Lew wins.
 
 ---
 
+# Challenge 6
+
+**Difficulty**: Easy
+
+Complete the solution so that it reverses the string passed into it.
+
+---
+
+### Example
+
+'world' => 'dlrow'
+'word' => 'drow'
+
+---
+
 #### References:
 
 1. https://coddy.tech/courses/golang_challenges__level_1/sum_and_divide
@@ -117,3 +132,4 @@ Lew attacks Harry: Harry now has -1 health and is dead. Lew wins.
 3. https://tutorialedge.net/challenges/go/type-assertions/
 4. https://www.codewars.com/kata/5526fc09a1bbd946250002dc/train/go
 5. https://www.codewars.com/kata/577bd8d4ae2807c64b00045b/train/go
+6. https://www.codewars.com/kata/5168bb5dfe9a00b126000018/go
